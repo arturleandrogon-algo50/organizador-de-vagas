@@ -1,0 +1,13 @@
+# Segredos: NUNCA publicar
+.env
+
+# Dados pessoais gerados pelo script
+vagas.xlsx
+vagas.csv
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+~$*
